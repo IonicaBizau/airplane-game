@@ -20,7 +20,7 @@ $(function () {
         type.play()
     }
 
-    var SIZE = [20, 20];
+    var SIZE = [10, 10];
     var SQUARE_SIZE = 20;
     var $grid = $(".grid");
     var PLANE_ORIENTATION = "TOP";
