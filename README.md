@@ -57,6 +57,7 @@ Thanks! :heart:
  - Used [Piskel](http://www.piskelapp.com/) to create the favicon.
 
 
+
 ## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
