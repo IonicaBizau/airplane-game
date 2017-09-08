@@ -14,7 +14,6 @@ This is a game we were playing as kids on math paper. It was a lot of fun during
 
 ## How to play :zap:
 
-
 It's a two player game, so you have to find someone to play it with. :smile:
 
 Open the [game in your browser](https://ionicabizau.github.io/airplane-game/) and you will get a unique url you can share with your friend you want to play the game with.
